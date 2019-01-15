@@ -35,8 +35,6 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 
 An introductory notebook to deep learning based image analysis as well as comparing it  with classical machine learning algorithms, furthermore with complete manual image analysis. The object of this notebook is to give the readers an implementation of; What does "representative learning" actually mean? What do feature selection mean? *Images of rice seeds were provided from S. Nishiuchi at 2016 (personal communication).*
 
-<br><br>
-
 <br>
 
 ### 17 Flowers dataset 
