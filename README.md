@@ -28,11 +28,15 @@
 
 
 
+
+
 ### 17 Flowers dataset 
 
 <img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" /> ![https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/rice_seed_classification.ipynb](https://colab.research.google.com/assets/colab-badge.svg) 
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-Data Augmentation-green.svg) ![badge](https://img.shields.io/badge/tag-Transfer Learning-green.svg) ![badge](https://img.shields.io/badge/tag-Fine Tuning-green.svg)
+
+
 
 
 
@@ -44,11 +48,15 @@
 
 
 
+
+
 ### Yeast GFP protein localization
 
 <img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" /> ![https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/yeast_GFP_localization_classification.ipynb](https://colab.research.google.com/assets/colab-badge.svg) 
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-Data Augmentation-green.svg) ![badge](https://img.shields.io/badge/tag-Transfer Learning-green.svg) ![badge](https://img.shields.io/badge/tag-Fine Tuning-green.svg)
+
+
 
 
 
