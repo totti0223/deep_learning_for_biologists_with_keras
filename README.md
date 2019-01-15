@@ -14,7 +14,7 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 
 - Tutorials that performs deep learning based analysis  (mainly) of biological relavent themes. Should give you (biologists) a better implementation of DL much more than general tutorial tasks like MNIST and CIFAR-10. (Although going to prepare basic tutorial section on how to use colab and keras with such in the future)
 - Google Colaboratory based notebooks. All you need is internet connection, google chrome browser, and google account. **GPU learning environment at a click!**
-- To open the notebook, click on the ![image](https://colab.research.google.com/assets/colab-badge.svg)button in each section. Logged in to Google Account and copying the ipynb to your local google doc folder is preferred.
+- To open the notebook, click on the ![image](https://colab.research.google.com/assets/colab-badge.svg)button in each section. Logging into Google Account and copying the ipynb to your local google doc folder is preferred.
 
 ## Note
 
