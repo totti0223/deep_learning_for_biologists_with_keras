@@ -52,8 +52,6 @@ An introductory notebook to deep learning based image analysis as well as compar
 
 Will build a convolutional neural network (CNN) based classification model using a 17 category flower dataset provided by the team at University of Oxford (http://www.robots.ox.ac.uk/~vgg/data/flowers/17/). The dataset provides of 80 images per category. We will compare the training process starting from scratch (*de novo*), transfer-learning and fine-tuning which the later two are pretrained from ImageNet. We will see that upon training with not so much data (for CNN), pretraining has a great effect upon speed and (ocasionally) accuracy of the model.
 
-<br><br>
-
 <br>
 
 ### Crop/Weed Segmentation
@@ -63,8 +61,6 @@ Will build a convolutional neural network (CNN) based classification model using
 ![badge](https://img.shields.io/badge/type-segmentation-blue.svg) ![badge](https://img.shields.io/badge/tag-UNet-green.svg)
 
 In this notebook, we will perform a segmentation of crop and weed region from images taken by an autonomous field robot, which the datasets are provided from Haug et al., "A Crop/Weed Field Image Dataset for the Evaluation of Computer Vision Based Precision Agriculture Tasks" (2015). First of all, with conventional approaches, we possibly can isolate the weed and crop resions from the soil area using a color threshold in the green domain. However, how can we further classify the weed (red) from the crop (green) region? Such feature selection is a master of a master craftsmanship. Instead, we will use DL, in specific, semantic segmentation methods to 1) Isolate the grass regions from the soil, 2) Isolating and classifying weeds and crops regions. A neural network architecture named U-Net will be used here.
-
-<br><br>
 
 <br>
 
