@@ -35,6 +35,10 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 
 <br><br>
 
+<br>
+
+<br>
+
 ### 17 Flowers dataset 
 
 <img src = "assets/image-20190115201017711.png" width="150" ALIGN="left" />   [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/flower_image_classification.ipynb) <br>
