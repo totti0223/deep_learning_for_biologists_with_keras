@@ -95,6 +95,11 @@ An introductory notebook to deep learning based image analysis as well as compar
 
 - Pix2pix for microscope image alternation
 
+  ```
+  <!---
+    <img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" />
+  -->
+  ```
+
   
 
-### <img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" />
