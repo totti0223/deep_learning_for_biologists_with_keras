@@ -43,7 +43,7 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 
 <img src = "assets/image-20190115201017711.png" width="150" ALIGN="left" />   [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/flower_image_classification.ipynb) <br>
 
-![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-Data_Augmentation-green.svg) ![badge](https://img.shields.io/badge/tag-Transfer_Learning-green.svg) ![badge](https://img.shields.io/badge/tag-Fine_Tuning-green.svg)
+![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg)  ![badge](https://img.shields.io/badge/tag-Transfer_Learning-green.svg) ![badge](https://img.shields.io/badge/tag-Fine_Tuning-green.svg)
 
 <br><br>
 
