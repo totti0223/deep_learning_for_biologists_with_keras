@@ -23,6 +23,13 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 - Feedbacks and requests, complements including typos and misusage of codes in the notebooks are highly welcomed in the issues of github repo.
 - A lot of stuff in this notebook is still in alpha ver. (code readability, comments). But to get early feedbacks, opening them cowardly.
 
+## To do
+
+- Revise codes and comments for clarity
+
+- Add more example notebooks (described in the *"Notebooks to be opened"* section)
+
+- Add at a glance slide per each notebook so its object will be clear
 
 
 ## Notebooks Open
@@ -33,7 +40,7 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-comparison_with_classical_ML-green.svg)
 
-An introductory notebook to deep learning based image analysis as well as comparing it  with classical machine learning algorithms, furthermore with complete manual image analysis. The object of this notebook is to give the readers an implementation of; What does "representative learning" actually mean? What do feature selection mean? *Images of rice seeds were provided from S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).*
+An introductory notebook to deep learning based image analysis as well as comparing it  with classical machine learning algorithms, furthermore with complete manual image analysis. The object of this notebook is to give the readers an implementation of; What does "Representative Learning" actually mean? What is Feature Selection? *Images of rice seeds were provided from Dr. S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).*
 
 <br>
 
@@ -42,6 +49,8 @@ An introductory notebook to deep learning based image analysis as well as compar
 <img src = "assets/image-20190115201017711.png" width="150" ALIGN="left" />   [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/flower_image_classification.ipynb) <br>
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg)  ![badge](https://img.shields.io/badge/tag-Transfer_Learning-green.svg) ![badge](https://img.shields.io/badge/tag-Fine_Tuning-green.svg)
+
+Will build a convolutional neural network (CNN) based classification model using a 17 category flower dataset provided by the team at University of Oxford (http://www.robots.ox.ac.uk/~vgg/data/flowers/17/). The dataset provides of 80 images per category. We will compare the training process starting from scratch (*de novo*), transfer-learning and fine-tuning which the later two are pretrained from ImageNet. We will see that upon training with not so much data (for CNN), pretraining has a great effect upon speed and (ocasionally) accuracy of the model.
 
 <br><br>
 
@@ -52,6 +61,8 @@ An introductory notebook to deep learning based image analysis as well as compar
 <img src = "assets/image-20190115201227438.png" width="150" ALIGN="left" />  [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/crop_weed_semantic_segmentation.ipynb) <br>
 
 ![badge](https://img.shields.io/badge/type-segmentation-blue.svg) ![badge](https://img.shields.io/badge/tag-UNet-green.svg)
+
+In this notebook, we will perform a segmentation of crop and weed region from images taken by an autonomous field robot, which the datasets are provided from Haug et al., "A Crop/Weed Field Image Dataset for the Evaluation of Computer Vision Based Precision Agriculture Tasks" (2015). First of all, with conventional approaches, we possibly can isolate the weed and crop resions from the soil area using a color threshold in the green domain. However, how can we further classify the weed (red) from the crop (green) region? Such feature selection is a master of a master craftsmanship. Instead, we will use DL, in specific, semantic segmentation methods to 1) Isolate the grass regions from the soil, 2) Isolating and classifying weeds and crops regions. A neural network architecture named U-Net will be used here.
 
 <br><br>
 
