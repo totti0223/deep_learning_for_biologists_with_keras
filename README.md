@@ -38,7 +38,7 @@
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-Data_Augmentation-green.svg) ![badge](https://img.shields.io/badge/tag-Transfer_Learning-green.svg) ![badge](https://img.shields.io/badge/tag-Fine_Tuning-green.svg)
 
-<br>
+<br><br><br><br>
 
 ### Crop/Weed Segmentation
 
