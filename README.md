@@ -55,7 +55,7 @@
 
 ### Simulated ChIP-seq motif extraction
 
-<img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/[dna_simulated_chip.ipynb](https://github.com/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/dna_simulated_chip.ipynb)) <br>
+<img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/dna_simulated_chip.ipynb) <br>
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-basics_of_handling_DNA_in_DL-green.svg) ![badge](https://img.shields.io/badge/tag-simple_visualization_of_DL_decision-green.svg)
 
