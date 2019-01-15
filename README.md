@@ -12,7 +12,7 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 
 ## What is it?
 
-- Tutorials that can run deep learning based analysis  (mainly) of biological relavent themes. Should give you (biologists) a better implementation of DL much more than general tutorial tasks like MNIST and CIFAR-10. (Although going to prepare basic tutorial section on how to use colab and keras with such in the future)
+- Tutorials that performs deep learning based analysis  (mainly) of biological relavent themes. Should give you (biologists) a better implementation of DL much more than general tutorial tasks like MNIST and CIFAR-10. (Although going to prepare basic tutorial section on how to use colab and keras with such in the future)
 - Google Colaboratory based notebooks. All you need is internet connection, google chrome browser, and google account. **GPU learning environment at a click!**
 - To open the notebook, click on the ![image](https://colab.research.google.com/assets/colab-badge.svg)button in each section. Logged in to Google Account and copying the ipynb to your local google doc folder is preferred.
 
@@ -32,6 +32,8 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 <img src = "assets/image-20190115201428173.png" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/rice_seed_classification.ipynb) <br>
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-comparison_with_classical_ML-green.svg)
+
+Text TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
 
 <br><br>
 
