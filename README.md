@@ -39,8 +39,6 @@ An introductory notebook to deep learning based image analysis as well as compar
 
 <br>
 
-<br>
-
 ### 17 Flowers dataset 
 
 <img src = "assets/image-20190115201017711.png" width="150" ALIGN="left" />   [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/flower_image_classification.ipynb) <br>
@@ -51,8 +49,6 @@ An introductory notebook to deep learning based image analysis as well as compar
 
 <br>
 
-<br>
-
 ### Crop/Weed Segmentation
 
 <img src = "assets/image-20190115201227438.png" width="150" ALIGN="left" />  [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/crop_weed_semantic_segmentation.ipynb) <br>
@@ -60,8 +56,6 @@ An introductory notebook to deep learning based image analysis as well as compar
 ![badge](https://img.shields.io/badge/type-segmentation-blue.svg) ![badge](https://img.shields.io/badge/tag-UNet-green.svg)
 
 <br><br>
-
-<br>
 
 <br>
 
@@ -77,15 +71,11 @@ An introductory notebook to deep learning based image analysis as well as compar
 
 <br>
 
-<br>
-
 ### Simulated ChIP-seq motif extraction
 
 <img src = "assets/image-20190115202731524.png" height="150px" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/dna_simulated_chip.ipynb) <br>
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-basics_of_handling_DNA_in_DL-green.svg) ![badge](https://img.shields.io/badge/tag-simple_visualization_of_DL_decision-green.svg)
-
-<br>
 
 <br>
 
