@@ -22,45 +22,35 @@
 
 ### Rice Seed integrity
 
-<img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" /> ![https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/rice_seed_classification.ipynb](https://colab.research.google.com/assets/colab-badge.svg) 
+<img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" /> ![https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/rice_seed_classification.ipynb](https://colab.research.google.com/assets/colab-badge.svg) <br>![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-comparison_with_classical_ML-green.svg)
 
-
-
-![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-comparison_with_classical_ML-green.svg)
-
-
+<br><br>
 
 ### 17 Flowers dataset 
 
-<img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" /> ![https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/rice_seed_classification.ipynb](https://colab.research.google.com/assets/colab-badge.svg) 
+<img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" /> ![https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/rice_seed_classification.ipynb](https://colab.research.google.com/assets/colab-badge.svg) <br>![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-Data_Augmentation-green.svg) ![badge](https://img.shields.io/badge/tag-Transfer_Learning-green.svg) ![badge](https://img.shields.io/badge/tag-Fine_Tuning-green.svg)
 
-<br>
-
-![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-Data_Augmentation-green.svg) ![badge](https://img.shields.io/badge/tag-Transfer_Learning-green.svg) ![badge](https://img.shields.io/badge/tag-Fine_Tuning-green.svg)
-
-<br><br><br><br>
+<br><br>
 
 ### Crop/Weed Segmentation
 
-<img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" /> ![https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/crop_weed_semantic_segmentation.ipynb](https://colab.research.google.com/assets/colab-badge.svg) 
-
-<br>
+<img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" /> ![https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/crop_weed_semantic_segmentation.ipynb](https://colab.research.google.com/assets/colab-badge.svg) <br>
 
 ![badge](https://img.shields.io/badge/type-segmentation-blue.svg) ![badge](https://img.shields.io/badge/tag-UNet-green.svg)
 
-<br>
+<br><br>
 
 ### Yeast GFP protein localization
 
-<img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" /> ![https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/yeast_GFP_localization_classification.ipynb](https://colab.research.google.com/assets/colab-badge.svg) 
-
-<br>
+<img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" /> ![https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/yeast_GFP_localization_classification.ipynb](https://colab.research.google.com/assets/colab-badge.svg) <br>
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg)
 
 <br>
 
-## Notebooks Comming
+<br>
+
+## Notebooks To be Opened
 
 ### 
 
