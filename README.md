@@ -33,7 +33,7 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-comparison_with_classical_ML-green.svg)
 
-Text TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
+An introductory notebook to deep learning based image analysis as well as comparing the methods with classical machine learning methods, furthermore with complete manual image analysis. Images of rice seeds were provided from S. Nishiuchi at 2016 (personal communication). 
 
 <br><br>
 
