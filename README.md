@@ -33,7 +33,7 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-comparison_with_classical_ML-green.svg)
 
-An introductory notebook to deep learning based image analysis as well as comparing it  with classical machine learning algorithms, furthermore with complete manual image analysis. The object of this notebook is to give the readers an implementation of; What does "representative learning" actually mean? What do feature selection mean? *Images of rice seeds were provided from S. Nishiuchi at 2016 (personal communication).*
+An introductory notebook to deep learning based image analysis as well as comparing it  with classical machine learning algorithms, furthermore with complete manual image analysis. The object of this notebook is to give the readers an implementation of; What does "representative learning" actually mean? What do feature selection mean? *Images of rice seeds were provided from S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).*
 
 <br>
 
@@ -100,6 +100,4 @@ An introductory notebook to deep learning based image analysis as well as compar
     <img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" />
   -->
   ```
-
-  
 
