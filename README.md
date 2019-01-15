@@ -12,7 +12,7 @@
 
 - Mathmatical calculations and/or theoretical backgrounds will not be thoroughly explained in this tutorial. The object of this notebook is to get a overview of how we can perform DL in the field of biology (especially in plant science and agriculture) for non informatitians.
 
-- **Keras with Tensorflow background** is the main DL framework used in the notebook. I do not intend to mix different frameworks for clarity in the current situation.
+- **Keras with Tensorflow background** is the main DL framework used throughout the notebook. I do not intend to mix different frameworks for clarity in the current situation.
 - Feedbacks and requests, complements including typos and misusage of codes in the notebooks are highly welcomed in the issues of github repo.
 
 
@@ -52,6 +52,18 @@
 <br>
 
 <br>
+
+### Simulated ChIP analysis
+
+<img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/yeast_GFP_localization_classification.ipynb) <br>
+
+![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-Pandas_Dataframe_yielding-green.svg)
+
+<br>
+
+<br>
+
+
 
 ## Notebooks To be Opened
 
