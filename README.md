@@ -19,9 +19,9 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 ## Note
 
 - Mathmatical calculations and/or theoretical backgrounds will not be thoroughly explained in this tutorial. The object of this notebook is to get a overview of how we can perform DL in the field of biology (especially in plant science and agriculture) for non informatitians.
-
 - **Keras with Tensorflow background** is the main DL framework used in the notebook. I do not intend to mix different frameworks for clarity in the current situation.
 - Feedbacks and requests, complements including typos and misusage of codes in the notebooks are highly welcomed in the issues of github repo.
+- A lot of stuff in this notebook is still in alpha ver. (code readability, comments). But to get early feedbacks, opening them cowardly.
 
 
 
@@ -95,9 +95,17 @@ An introductory notebook to deep learning based image analysis as well as compar
 
 - Pix2pix for microscope image alternation
 
-  ```
+
+
+
+
+
+
+
+
   <!---
     <img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" />
   -->
-  ```
+
+
 
