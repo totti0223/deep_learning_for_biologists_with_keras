@@ -12,7 +12,7 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 
 ## What is it?
 
-- Tutorials that performs deep learning based analysis  (mainly) of biological relavent themes. Should give you (biologists) a better implementation of DL much more than general tutorial tasks like MNIST and CIFAR-10. (Although going to prepare basic tutorial section on how to use colab and keras with such in the future)
+- Tutorials that performs deep learning based analysis  (mainly) of biological relavent themes. Should give you (biologists) a better implementation of DL much more than general tutorial tasks like MNIST and CIFAR-10. (Although may prepare basic tutorial section on how to use colab and keras with such in the future if necessary)
 - Google Colaboratory based notebooks. All you need is internet connection, google chrome browser, and google account. **GPU learning environment at a click!**
 - To open the notebook, click on the ![image](https://colab.research.google.com/assets/colab-badge.svg)button in each section. Logging into Google Account and copying the ipynb to your local google doc folder is preferred.
 
@@ -36,17 +36,33 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 
 ## Notebooks Open
 
-### Rice Seed integrity
+
+
+### Rice Seed integrity: What is deep learning.
 
 <img src = "assets/image-20190115201428173.png" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/rice_seed_classification.ipynb) <br>
 
-![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-comparison_with_classical_ML-green.svg)
+![badge](https://img.shields.io/badge/type-classification-blue.svg)![badge](https://img.shields.io/badge/tag-preferred_for_beginners-green.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-comparison_with_classical_ML-green.svg)
 
 An introductory notebook to deep learning based image analysis as well as comparing it  with classical machine learning algorithms, furthermore with complete manual image analysis. The object of this notebook is to give the readers an implementation of; What does "Representative Learning" actually mean? What is Feature Selection? *Images of rice seeds were provided from Dr. S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).*
 
 
 
 ![badge](https://img.shields.io/badge/progress-80-orange.svg) Refurnish Codes and Comments
+
+<br>
+
+### Basic Usage of Keras: Code Collection
+
+<img src = "assets/image-20190117153946252.png" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/basic_usage_of_keras.ipynb) <br>
+
+![badge](https://img.shields.io/badge/tag-preferred_for_Keras_beginners-green.svg) 
+
+Basic code collection of Keras. Lloading images, build, train, evaluate and using the CNN. As Keras is quite flexible and have multiple ways of writing code even for a simplest CNN, I have written down all the patterns in one Colab notebook.  *Images of rice seeds were provided from Dr. S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).* However, what kind data of data we are handling in this tutorial is not featured. Preferred to go through the tutorial of Rice Seed Integrity first for understanding. 
+
+
+
+![badge](https://img.shields.io/badge/progress-95-orange.svg) Finalize with feedbacks
 
 <br>
 
