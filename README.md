@@ -52,7 +52,7 @@ An introductory notebook to deep learning based image analysis as well as compar
 
 <br>
 
-### Keras Code Collection: How to use Keras
+### Basic Usage of Keras: Code Collection
 
 <img src = "assets/image-20190117153946252.png" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/basic_usage_of_keras.ipynb) <br>
 
