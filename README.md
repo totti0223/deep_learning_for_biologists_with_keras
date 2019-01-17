@@ -36,7 +36,19 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 
 ## Notebooks Open
 
+### Keras Code Collection: How to use Keras
 
+<img src = "assets/image-20190117153946252.png" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/basic_usage_of_keras.ipynb) <br>
+
+![badge](https://img.shields.io/badge/tag-preferred_for_Keras_beginners-green.svg) 
+
+Basic code collection of Keras. Loading images, build, train, evaluate and using the CNN. As Keras is quite flexible and have multiple ways of writing code even for a simplest CNN, I have written down all the patterns in one Colab notebook.  *Images of rice seeds were provided from Dr. S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).* However, what kind data of data we are handling in this tutorial is not featured. Preferred to go through the notebookl of Rice Seed Integrity for understanding. 
+
+
+
+![badge](https://img.shields.io/badge/progress-95-orange.svg) Finalize with feedbacks
+
+<br>
 
 ### Rice Seed integrity: What is deep learning.
 
@@ -49,20 +61,6 @@ An introductory notebook to deep learning based image analysis as well as compar
 
 
 ![badge](https://img.shields.io/badge/progress-80-orange.svg) Refurnish Codes and Comments
-
-<br>
-
-### Keras Code Collection: How to use Keras
-
-<img src = "assets/image-20190117153946252.png" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/basic_usage_of_keras.ipynb) <br>
-
-![badge](https://img.shields.io/badge/tag-preferred_for_Keras_beginners-green.svg) 
-
-Basic code collection of Keras. Loading images, build, train, evaluate and using the CNN. As Keras is quite flexible and have multiple ways of writing code even for a simplest CNN, I have written down all the patterns in one Colab notebook.  *Images of rice seeds were provided from Dr. S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).* However, what kind data of data we are handling in this tutorial is not featured. Preferred to go through the tutorial of Rice Seed Integrity first for understanding. 
-
-
-
-![badge](https://img.shields.io/badge/progress-95-orange.svg) Finalize with feedbacks
 
 <br>
 
