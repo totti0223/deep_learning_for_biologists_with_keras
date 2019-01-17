@@ -58,7 +58,7 @@ An introductory notebook to deep learning based image analysis as well as compar
 
 ![badge](https://img.shields.io/badge/tag-preferred_for_Keras_beginners-green.svg) 
 
-Basic code collection of Keras. Lloading images, build, train, evaluate and using the CNN. As Keras is quite flexible and have multiple ways of writing code even for a simplest CNN, I have written down all the patterns in one Colab notebook.  *Images of rice seeds were provided from Dr. S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).* However, what kind data of data we are handling in this tutorial is not featured. Preferred to go through the tutorial of Rice Seed Integrity first for understanding. 
+Basic code collection of Keras. Loading images, build, train, evaluate and using the CNN. As Keras is quite flexible and have multiple ways of writing code even for a simplest CNN, I have written down all the patterns in one Colab notebook.  *Images of rice seeds were provided from Dr. S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).* However, what kind data of data we are handling in this tutorial is not featured. Preferred to go through the tutorial of Rice Seed Integrity first for understanding. 
 
 
 
