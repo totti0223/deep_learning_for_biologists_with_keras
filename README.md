@@ -12,26 +12,21 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 
 ## What is it?
 
-- Tutorials that performs deep learning based analysis  (mainly) of biological relavent themes. Should give you (biologists) a better implementation of DL much more than general tutorial tasks like MNIST and CIFAR-10. (Although may prepare basic tutorial section on how to use colab and keras with such in the future if necessary)
-- Google Colaboratory based notebooks. All you need is internet connection, google chrome browser, and google account. **GPU learning environment at a click!**
-- To open the notebook, click on the ![image](https://colab.research.google.com/assets/colab-badge.svg)button in each section. Logging into Google Account and copying the ipynb to your local google doc folder is preferred.
+- Tutorials for deep learning based analysis  (mainly) on biological relavent themes. Should give you a better implementation of DL much more than general tutorial tasks like MNIST and CIFAR-10. 
+- Google Colaboratory based notebooks. All you need is an internet connection, google chrome browser, and google account. **GPU learning environment at a click!**
+- To open the notebook, click the ![image](https://colab.research.google.com/assets/colab-badge.svg)in each section. Logging into Google Account and copying the ipynb to your local google doc folder is preferred for code customization and saving.
 
 ## Note
 
 - Mathmatical calculations and/or theoretical backgrounds will not be thoroughly explained in this tutorial. The object of this notebook is to get a overview of how we can perform DL in the field of biology (especially in plant science and agriculture) for non informatitians.
 - **Keras with Tensorflow background** is the main DL framework used in the notebook. I do not intend to mix different frameworks for clarity in the current situation.
-- Feedbacks and requests, complements including typos and misusage of codes in the notebooks are highly welcomed in the issues of github repo.
-- A lot of stuff in this notebook is still in alpha ver. (code readability, comments). But to get early feedbacks, opening them cowardly.
+- Feedbacks and requests, complements including typos and misusage of codes in the notebooks are highly welcomed in the issues of github repo or at twitter (@totti0223).
+- A lot of stuff in this notebook is still in alpha ver. (code readability, comments). But to gain early feedbacks, opening them cowardly.
 
 ## To do
 
-- Revise codes and comments for clarity
-
 - Add more examples (described in the *"Notebooks to be opened"* section)
 
-- Add at a glance slide per each notebook so its object will be clear
-
-  
 
 
 ## Notebooks Open
@@ -42,7 +37,7 @@ JST PRESTO researcher at Nagoya Univeristy /  Agri-Heir Co., Ltd.
 
 ![badge](https://img.shields.io/badge/tag-preferred_for_Keras_beginners-green.svg) 
 
-Basic code collection of Keras. Loading images, build, train, evaluate and using the CNN. As Keras is quite flexible and have multiple ways of writing code even for a simplest CNN, I have written down all the patterns in one Colab notebook.  *Images of rice seeds were provided from Dr. S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).* However, what kind of data we are handling in this tutorial is not featured. Preferred to go through the notebook of Rice Seed Integrity for understanding. 
+Basic code collection of Keras. Loading images, build, train, evaluate and using the CNN. As Keras is quite flexible and have multiple ways of writing code even for a simplest CNN, I have written down all the patterns in one Colab notebook.  *Images of rice seeds were provided from Dr. S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).* However, the data itself is not going to be discussed. Preferred to go through the notebook of Rice Seed Integrity below. 
 
 
 
@@ -50,13 +45,13 @@ Basic code collection of Keras. Loading images, build, train, evaluate and using
 
 <br>
 
-### Rice Seed integrity: What is deep learning.
+### Rice Seed Integrity: What is deep learning.
 
 <img src = "assets/image-20190115201428173.png" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/rice_seed_classification.ipynb) <br>
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg)![badge](https://img.shields.io/badge/tag-preferred_for_beginners-green.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-comparison_with_classical_ML-green.svg)
 
-An introductory notebook to deep learning based image analysis as well as comparing it  with classical machine learning algorithms, furthermore with complete manual image analysis. The object of this notebook is to give the readers an implementation of; What does "Representative Learning" actually mean? What is Feature Selection? *Images of rice seeds were provided from Dr. S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).*
+An introductory notebook to deep learning based image analysis as well as comparing it with classical machine learning algorithms and manual image classification. The object of this notebook is to give the readers an implementation of; What does "Representative Learning" actually mean? What is Feature Selection? *Images of rice seeds were provided from Dr. S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).*
 
 
 
@@ -64,7 +59,7 @@ An introductory notebook to deep learning based image analysis as well as compar
 
 <br>
 
-### 17 Flowers dataset 
+### 17 Flowers Dataset 
 
 <img src = "assets/image-20190115201017711.png" width="150" ALIGN="left" />   [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/flower_image_classification.ipynb) <br>
 
@@ -84,7 +79,7 @@ Will build a convolutional neural network (CNN) based classification model using
 
 ![badge](https://img.shields.io/badge/type-segmentation-blue.svg) ![badge](https://img.shields.io/badge/tag-UNet-green.svg)
 
-In this notebook, we will perform a segmentation of crop and weed region from images taken by an autonomous field robot, which the datasets are provided from Haug et al., "A Crop/Weed Field Image Dataset for the Evaluation of Computer Vision Based Precision Agriculture Tasks" (2015). First of all, with conventional approaches, we possibly can isolate the weed and crop resions from the soil area using a color threshold in the green domain. However, how can we further classify the weed (red) from the crop (green) region? Such feature selection is a master of a master craftsmanship. Instead, we will use DL, in specific, semantic segmentation methods to 1) Isolate the grass regions from the soil, 2) Isolating and classifying weeds and crops regions. A neural network architecture named U-Net will be used here.
+In this notebook, we will perform a segmentation of crop and weed region from images taken by an autonomous field robot, which the dataset are from Haug et al., "A Crop/Weed Field Image Dataset for the Evaluation of Computer Vision Based Precision Agriculture Tasks" (2015). With conventional approaches, we possibly can isolate the weed and crop resions from the soil area using a color threshold in the green domain. However, how can we further classify the weed (red) from the crop (green) region? Such feature selection is a master of a master craftsmanship. Instead, we will use DL, in specific, semantic segmentation methods to 1) Isolate the grass regions from the soil, 2) Isolating and classifying weeds and crops regions. A neural network architecture named U-Net will be used here.
 
 
 
@@ -92,13 +87,13 @@ In this notebook, we will perform a segmentation of crop and weed region from im
 
 <br>
 
-### Yeast GFP protein localization
+### Yeast GFP Protein Localization
 
 <img src = "assets/image-20190115201711326.png" height="150px" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/yeast_GFP_localization_classification.ipynb) <br>
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg) ![badge](https://img.shields.io/badge/tag-Pandas_Dataframe_yielding-green.svg)
 
-
+Yet another classification task. Dataset from the paper *Accurate Classification of Protein Subcellular Localization from High-Throughput Microscopy Images Using Deep Learning Tanel Pärnamaa and Leopold Parts G3: GENES, GENOMES, GENETICS May 1, 2017 vol. 7 no. 5 1385-1392*. This dataset has a csv file with file name information associated with class label instead of allocating the file to folders corresponding to its class. Moreover, dataset comprises of 90,000 images, possibly too large to load everything in label. Here we use the ImageDataGenerator class and its flow_from_dataframe function to feed batches of image upon training. Note: flow_from_dataframe in keras repository has a bug. we instead install keras_preprocessing and use the uptodate ImageDataGenerator (19, Jan. 2019 ).
 
 ![badge](https://img.shields.io/badge/progress-50-orange.svg) Need to add commentary throughout the notebook.
 
@@ -147,7 +142,7 @@ In this notebook, we will perform a segmentation of crop and weed region from im
 
 
   <!---
-    <img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" />
+​    <img src = "assets/image-20190115144920126.png" height="120px" ALIGN="left" />
   -->
 
 
