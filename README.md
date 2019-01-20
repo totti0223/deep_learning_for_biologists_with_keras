@@ -87,6 +87,22 @@ In this notebook, we will perform a segmentation of crop and weed region from im
 
 <br>
 
+### Bamboo forest detection from Google Earth Images
+
+<img src = "assets/image-20190120202734357.png" width="150" ALIGN="left" />  [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/bamboo_forest_detection.ipynb) <br>
+
+Original paper from Watanabe et al., "Using deep learning for bamboo forest detection from Google Earth images" doi: https://doi.org/10.1101/351643.
+
+ The data was provided by Dr. Ise (personal communcation). However the image originates from Google Earth, so please confirm the copyright if you intend to use this in non research purpose.
+
+![badge](https://img.shields.io/badge/type-segmentation-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg)
+
+
+
+![badge](https://img.shields.io/badge/progress-30-orange.svg) Need to add commentary throughout the notebook and above.
+
+<br>
+
 ### Yeast GFP Protein Localization
 
 <img src = "assets/image-20190115201711326.png" height="150px" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/yeast_GFP_localization_classification.ipynb) <br>
@@ -95,11 +111,9 @@ In this notebook, we will perform a segmentation of crop and weed region from im
 
 Yet another classification task. Dataset from the paper *Accurate Classification of Protein Subcellular Localization from High-Throughput Microscopy Images Using Deep Learning Tanel Pärnamaa and Leopold Parts G3: GENES, GENOMES, GENETICS May 1, 2017 vol. 7 no. 5 1385-1392*. This dataset has a csv file with file name information associated with class label instead of allocating the file to folders corresponding to its class. Moreover, dataset comprises of 90,000 images, possibly too large to load everything in label. Here we use the ImageDataGenerator class and its flow_from_dataframe function to feed batches of image upon training. Note: flow_from_dataframe in keras repository has a bug. we instead install keras_preprocessing and use the uptodate ImageDataGenerator (19, Jan. 2019 ).
 
+
+
 ![badge](https://img.shields.io/badge/progress-50-orange.svg) Need to add commentary throughout the notebook.
-
-<br>
-
-<br>
 
 <br>
 
@@ -122,8 +136,6 @@ Yet another classification task. Dataset from the paper *Accurate Classification
 ## Notebooks To be Opened
 
 - Crop disease diagnosis interpretability (currently under revision in peer reviewed journal)
-
-- Bamboo forest area identification from satelite images
 
 - Arabidopsis Leaf Counting
 
