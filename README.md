@@ -133,6 +133,10 @@ Yet another classification task. Dataset from the paper *Accurate Classification
 
 <br>
 
+## updates
+- Will have a major update including code sanitizing, reviewing, new sections etc.
+
+
 ## Notebooks To be Opened
 
 - Crop disease diagnosis interpretability (currently under revision in peer reviewed journal)
