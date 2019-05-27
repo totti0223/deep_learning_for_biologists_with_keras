@@ -41,7 +41,7 @@ Basic code collection of Keras. Loading images, build, train, evaluate and using
 
 
 
-![badge](https://img.shields.io/badge/progress-95-orange.svg) Finalize with feedbacks
+![badge](https://img.shields.io/badge/todo-orange.svg) Finalize with feedbacks
 
 <br>
 
@@ -55,7 +55,7 @@ An introductory notebook to deep learning based image analysis as well as compar
 
 
 
-![badge](https://img.shields.io/badge/progress-90-orange.svg) Refurnish Codes and Comments
+![badge](https://img.shields.io/badge/todo-orange.svg) Refurnish Codes and Comments
 
 <br>
 
@@ -69,7 +69,7 @@ Will build a convolutional neural network (CNN) based classification model using
 
 
 
-![badge](https://img.shields.io/badge/progress-80-orange.svg) Refurnish Codes and Comments
+![badge](https://img.shields.io/badge/todo-orange.svg) Refurnish Codes and Comments
 
 <br>
 
@@ -83,7 +83,7 @@ In this notebook, we will perform a segmentation of crop and weed region from im
 
 
 
-![badge](https://img.shields.io/badge/progress-50-orange.svg) Need to add commentary throughout the notebook.
+![badge](https://img.shields.io/badge/todo-orange.svg) Need to add commentary throughout the notebook.
 
 <br>
 
@@ -99,7 +99,7 @@ Original paper from Watanabe et al., "Using deep learning for bamboo forest dete
 
 
 
-![badge](https://img.shields.io/badge/progress-30-orange.svg) Need to add commentary throughout the notebook and above.
+![badge](https://img.shields.io/badge/todo-orange.svg) Need to add commentary throughout the notebook and above.
 
 <br>
 
@@ -113,9 +113,15 @@ Yet another classification task. Dataset from the paper *Accurate Classification
 
 
 
-![badge](https://img.shields.io/badge/progress-50-orange.svg) Need to add commentary throughout the notebook.
+![badge](https://img.shields.io/badge/todo-orange.svg) Need to add commentary throughout the notebook.
 
 <br>
+
+
+
+
+
+## Others
 
 ### Simulated ChIP-seq motif extraction
 
@@ -125,7 +131,7 @@ Yet another classification task. Dataset from the paper *Accurate Classification
 
 
 
-![badge](https://img.shields.io/badge/progress-50-orange.svg)Need to add commentary throughout the notebook.
+![badge](https://img.shields.io/badge/todo-orange.svg)Need to add commentary throughout the notebook.
 
 <br>
 
@@ -133,7 +139,7 @@ Yet another classification task. Dataset from the paper *Accurate Classification
 
 <br>
 
-## updates
+## Updates
 - Will have a major update including code sanitizing, reviewing, new sections etc.
 
 
